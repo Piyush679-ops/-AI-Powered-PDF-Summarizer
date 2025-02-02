@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+transformers
+torch
+sumy
+nltk
+pandas
+scikit-learn
+tqdm
+sentencepiece
